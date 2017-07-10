@@ -23,6 +23,7 @@
 		<property name="locations">
 			<list>
 				<value>env/redis.properties</value>
+				<value>env/mongo.properties</value>
 			</list>
 		</property>
 	</bean>
@@ -31,6 +32,7 @@
 	<!-- <import resource="spring/spring-mysql.xml" /> -->
 	<!-- -->
 	<import resource="spring/spring-redis.xml" />
+	<import resource="spring/spring-mongo.xml" />
 	<!-- <import resource="spring/spring-fastdfs.xml" /> -->
 	<!-- <import resource="spring/spring-rpc/spring-rpc.xml" /> -->
 </beans>
