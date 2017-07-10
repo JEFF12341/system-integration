@@ -8,7 +8,7 @@ import redis.source.DynamicRedisSource;
 
 /**
  * 
- * @author zhihongp
+ * @author wangshuo
  * 
  */
 public abstract class BaseRedisDAOImpl implements BaseRedisDAO {

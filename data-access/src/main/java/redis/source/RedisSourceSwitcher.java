@@ -3,7 +3,7 @@ package redis.source;
 /**
  * redis动态数据源选择器
  * 
- * @author zhihongp
+ * @author wangshuo
  * 
  */
 public class RedisSourceSwitcher {

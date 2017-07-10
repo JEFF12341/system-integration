@@ -11,7 +11,7 @@ import redis.template.RedisTemplateProxy;
 /**
  * 动态创建redis数据源的工具类
  * 
- * @author Administrator
+ * @author wangshuo
  * 
  */
 public class DynamicCreateRedisSourceManager {

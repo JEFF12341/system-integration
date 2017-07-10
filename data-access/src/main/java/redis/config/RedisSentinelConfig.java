@@ -5,7 +5,7 @@ import org.springframework.data.redis.connection.RedisSentinelConfiguration;
 
 /**
  * 
- * @author zhihongp
+ * @author wangshuo
  *
  */
 public class RedisSentinelConfig extends RedisSentinelConfiguration implements InitializingBean {

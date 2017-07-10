@@ -8,7 +8,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 /**
  * Redis的操作模板代理
  * 
- * @author zhihongp
+ * @author wangshuo
  * 
  */
 public class RedisTemplateProxy {

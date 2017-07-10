@@ -5,10 +5,9 @@ import org.apache.commons.lang.StringUtils;
 import exception.SystemException;
 
 /**
- * mongo排序对象
  * 
- * @author zhihongp
- * 
+ * @author wangshuo
+ *
  */
 public class Order {
 

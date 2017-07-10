@@ -22,7 +22,7 @@ import mongodb.template.MongoTemplateProxy;
 /**
  * 动态mongodb
  * 
- * @author zhihongp
+ * @author wangshuo
  * @param <T>
  * 
  */

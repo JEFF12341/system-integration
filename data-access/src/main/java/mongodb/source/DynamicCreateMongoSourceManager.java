@@ -12,7 +12,7 @@ import redis.source.SpringContextHolder;
 /**
  * 动态创建mongodb数据源的工具类
  * 
- * @author zhihongp
+ * @author wangshuo
  * 
  */
 public class DynamicCreateMongoSourceManager {

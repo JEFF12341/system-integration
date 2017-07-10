@@ -19,7 +19,7 @@ import util.ConsistenHashUtil;
 /**
  * 动态redis
  * 
- * @author zhihongp
+ * @author wangshuo
  * 
  */
 public class DynamicRedisSource {

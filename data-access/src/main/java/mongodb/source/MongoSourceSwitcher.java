@@ -3,7 +3,7 @@ package mongodb.source;
 /**
  * mongodb动态数据源选择器
  * 
- * @author zhihongp
+ * @author wangshuo
  * 
  */
 public class MongoSourceSwitcher {
